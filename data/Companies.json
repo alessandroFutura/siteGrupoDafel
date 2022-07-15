@@ -1,0 +1,1128 @@
+[
+    {   
+        "id":"1",
+        "name":"Matriz",
+        "image":"Matriz.jpeg",
+        "year": "1990",
+        "text": "Empenhados em produzir aço, ferro e alumínio desde 1990 para atender ao mercado de construção civil, hoje somamos 30 anos levando soluções e qualidade.",
+        "address":"Estr. Venceslau José de Medeiros, 1909 - Prata, Teresópolis - RJ, 25976-345",
+        "phone":"+55 021 2743-4200",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"matriz1.png"},
+            {"image":"matriz2.png"},
+            {"image":"matriz3.png"},
+            {"image":"matriz4.png"},
+            {"image":"matriz5.png"},
+            {"image":"matriz6.png"},
+            {"image":"matriz7.png"},
+            {"image":"matriz8.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"2",
+        "name":"Cabo Frio",
+        "image":"CF.jpeg",
+        "year": "2006",
+        "text": " Presente nas regiões dos lagos a Dafel vem atendendo seus clientes há mais de 15 anos no mercado de construção civil. Trazendo soluções e qualidade. ",
+        "address":"Av. América Central, 1721 - Jardim Olinda, Cabo Frio - RJ, 28909-581",
+        "phone":"+55 (22) 2646-2250",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"cabofrio1.png"},
+            {"image":"cabofrio2.png"},
+            {"image":"cabofrio3.png"},
+            {"image":"cabofrio4.png"},
+            {"image":"cabofrio5.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"3",
+        "name":"Macaé",
+        "image":"Macae.png",
+        "year": "2011",
+        "text": "Iniciou suas atividades em Macaé em 2011, atuando como distribuidora de alumínio, ferro e aço, fornecendo também produtos nas áreas de construção civil e serralheria. Buscando atender a cidade e os arredores com produtos de qualidade.  Suas entregas são rápidas e agora com você pode realizar suas compras (símbolo de compra com link da loja Dafel) 🛍 sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"Av. Guadalajara, 732 - Praia Campista, Macaé - RJ, 27923-220",
+        "phone":"+55 (22) 2763-6550",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"macae1.png"},
+            {"image":"macae2.png"},
+            {"image":"macae3.png"},
+            {"image":"macae4.png"},
+            {"image":"macae5.png"},
+            {"image":"macae6.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {"icon": "Abrasivos.png"},
+            {"icon": "Aluminio_vidro.png"},
+            {"icon": "Aco.png"},
+            {"icon": "Cercamento.png"},
+            {"icon": "Drywall.png"},
+            {"icon": "Epi.png"},
+            {"icon": "Fabricacao.png"},
+            {"icon": "Ferragem.png"},
+            {"icon": "Ferramentas.png"},
+            {"icon": "Fixacao.png"},
+            {"icon": "Marcenaria.png"},
+            {"icon": "Parafusadeira.png"},
+            {"icon": "Serralheria.png"},
+            {"icon": "Solda.png"}
+        ]
+    },
+    {   
+        "id":"4",
+        "name":"Industria",
+        "image":"IndustriaSJ.png",
+        "year": "2014",
+        "text": ": A Dafel Express teve sua primeira Indústria estabelecida em São José, em 2014 e com ela trouxe soluções próprias em alumínio, aço e ferro. Sempre buscando a excelência para atender todas as demandas de suas unidades. São mais de 7 anos levando produtos de qualidade para o mercado de construção civil.   Realize suas encomendas (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"Estrada Silveira da Mota, São José do Vale do Rio Preto - RJ, 25780-000",
+        "phone":"+55 (24) 2224-1395",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"saojose1.png"},
+            {"image":"saojose3.png"},
+            {"image":"saojose4.png"},
+            {"image":"saojose5.png"},
+            {"image":"saojose6.png"},
+            {"image":"saojose7.png"},
+            {"image":"saojose8.png"},
+            {"image":"saojose9.png"},
+            {"image":"saojose0.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"5",
+        "name":"Conceição de Macabu",
+        "image":"IndustriaMacabu.png",
+        "year": "2020",
+        "text": " A Dafel Express teve sua segunda Industria em 2020, localizada em Conceição de Macabu trazendo soluções em alumínio, aço e ferro.  Realize suas encomendas (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"R. J, 19 - Paraíso, Conceição de Macabu - RJ, 28740-000",
+        "phone":"+55 021 2743-4200",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"macabuindustria1.png"},
+            {"image":"macabuindustria2.png"},
+            {"image":"macabuindustria3.png"},
+            {"image":"macabuindustria4.png"},
+            {"image":"macabuindustria5.png"},
+            {"image":"macabuindustria6.png"},
+            {"image":"macabuindustria7.png"},
+            {"image":"macabuindustria8.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+       "id":"6",
+        "name":"Bom Retiro",
+        "image":"Tenente.png",
+        "year": "2022",
+        "text": "A Dafel Tenente atende a Região Serrana, em Teresópolis, no mercado de Construção Civil, fazendo a distribuição de peças em aço, ferro e alumínio. Atualmente a empresa atua fornecendo produtos nas áreas de construção civil e serralheria. Buscando atender a cidade e seus arredores com produtos de qualidade e realizando as entregas de forma rápida.   Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado. ",
+        "address":"R. Ten. Luiz Meirelles, 1409 - Bom Retiro, Teresópolis - RJ, 25954-000",
+        "phone":"+55 (21) 2743-4205",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"bomretiro1.png"},
+            {"image":"bomretiro2.png"},
+            {"image":"bomretiro3.png"},
+            {"image":"bomretiro4.png"},
+            {"image":"bomretiro5.png"},
+            {"image":"bomretiro6.png"},
+            {"image":"bomretiro7.png"},
+            {"image":"bomretiro8.png"},
+            {"image":"bomretiro9.png"},
+            {"image":"bomretiro10.png"},
+            {"image":"bomretiro11.png"},
+            {"image":"bomretiro12.png"},
+            {"image":"bomretiro13.png"},
+            {"image":"bomretiro14.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"7",
+        "name":"DX DO VALE",
+        "image":"SJ.jpeg",
+        "year": "2016",
+        "text": "São mais de 15 anos no mercado de Construção Civil, levando peças em aço, ferro e alumínio produzidos em nossa fábrica. E materiais de construção, como máquinas; equipamentos de proteção individual e sinalização; cercamento; uma linha completa de fixação e serralheria..                                 Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"Estrada Silveira da Mota, São José do Vale do Rio Preto - RJ, 25780-000",
+        "phone":"+55 (24) 2224-1395",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"dafelsaojose1.png"},
+            {"image":"dafelsaojose2.png"},
+            {"image":"dafelsaojose3.png"},
+            {"image":"dafelsaojose4.png"},
+            {"image":"dafelsaojose5.png"},
+            {"image":"dafelsaojose6.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"8",
+        "name":"Unamar",
+        "image":"Unamar.png",
+        "year": "2016",
+        "text": " São mais de 15 anos no mercado de Construção Civil, levando peças em aço, ferro e alumínio. Atualmente a empresa atua fornecendo produtos nas áreas de construção civil e serralheria. Atendendo a cidade e seus arredores com produtos de qualidade e realizando as entregas de forma rápida.  Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado. ",
+        "address":"R. Pampos - Unamar, Cabo Frio - RJ, 28928-542",
+        "phone":"+55 (22) 2644-8757",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"unamar1.png"},
+            {"image":"unamar2.png"},
+            {"image":"unamar3.png"},
+            {"image":"unamar4.png"},
+            {"image":"unamar5.png"},
+            {"image":"unamar6.png"},
+            {"image":"unamar7.png"},
+            {"image":"unamar8.png"},
+            {"image":"unamar9.png"},
+            {"image":"unamar10.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+       "id":"9",
+        "name":"Nova Friburgo",
+        "image":"Friburgo.png",
+        "year": "2018",
+        "text": "São 32 anos de história, há quase 5 anos no mercado de Construção Civil, levando peças em aço, ferro e alumínio produzidos em nossa fábrica. E materiais de construção, como máquinas; equipamentos de proteção individual e sinalização; cercamento e uma linha completa de fixação.                                                                Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"Av. Antônio Mario de Azevedo - Corrego D'antas, Nova Friburgo - RJ, 28630-590",
+        "phone":"+55 (22) 2529-3376",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"friburgo1.png"},
+            {"image":"friburgo4.png"},
+            {"image":"friburgo5.png"},
+            {"image":"friburgo6.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"10",
+        "name":"Guapimirim",
+        "image":"Guapi.png",
+        "year": "2021",
+        "text": "São 32 anos de história, há quase 2 anos no mercado de Construção Civil, no mercado de Construção Civil, levando peças em aço, ferro e alumínio produzidos em nossa fábrica. E materiais de construção, como máquinas; equipamentos de proteção individual e sinalização; cercamento; uma linha completa de fixação e serralheria..                                                             Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"R. Edgard Barbosa - Cidade Jardim Guapimirim, Guapimirim - RJ, 25943-395",
+        "phone":"+55 (21) 3094-2410",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"guapi1.png"},
+            {"image":"guapi2.png"},
+            {"image":"guapi3.png"},
+            {"image":"guapi4.png"},
+            {"image":"guapi5.png"},
+            {"image":"guapi6.png"},
+            {"image":"guapi7.png"},
+            {"image":"guapi8.png"},
+            {"image":"guapi9.png"},
+            {"image":"guapi10.png"},
+            {"image":"guapi11.png"},
+            {"image":"guapi12.png"},
+            {"image":"guapi13.png"},
+            {"image":"guapi14.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"11",
+        "name":"Saracuruna",
+        "image":"Caxias.png",
+        "year": "2021",
+        "text": "São 32 anos de história, há quase 2 anos Saracuruna recebe nosso atendimento especializado no mercado de Construção Civil, levando peças em aço, ferro e alumínio produzidos em nossa fábrica. E materiais de construção, como máquinas; equipamentos de proteção individual e sinalização; cercamento; uma linha completa de fixação e serralheria.  Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado. ",
+        "address":"Av. Presidente Roosevelt - Saracuruna, Duque de Caxias - RJ, 25211-120",
+        "phone":"+55 (21) 3952-6530",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"saracuruna1.png"},
+            {"image":"saracuruna2.png"},
+            {"image":"saracuruna3.png"},
+            {"image":"saracuruna4.png"},
+            {"image":"saracuruna5.png"},
+            {"image":"saracuruna6.png"},
+            {"image":"saracuruna7.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"13",
+        "name":"Ecin",
+        "image":"ECIN.png",
+        "year": "2019",
+        "text": "A Ecin faz parte do Grupo Dafel. Ela iniciou suas atividades em Petrópolis em 2019, atuando como distribuidora de alumínio, ferro e aço. Atualmente a empresa atua fornecendo produtos nas áreas de construção civil e serralheria. Atende a cidade e os arredores com produtos de qualidade e realizando as entregas de forma rápida.                                                                        Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"Av. Barão do Rio Branco, 1939 - Centro, Petrópolis - RJ, 25680-275",
+        "phone":"+55 (24) 2244-2750",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"ecin2.png"},
+            {"image":"ecin3.png"},
+            {"image":"ecin4.png"},
+            {"image":"ecin5.png"},
+            {"image":"ecin6.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"14",
+        "name":"Dafix Macaé",
+        "image":"dafix.png",
+        "year": "2022",
+        "text": "Bem-vindos a nossa primeira Dafix, loja física, localizada em Macaé. São muitos anos levando linha de excelência em fixação para o Grupo Dafel.                                                Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado.",
+        "address":"R. Evaldo Costa, 287 - Sol e Mar, Macaé - RJ, 27940-410",
+        "phone":"+55 (22) 2763-6575",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"dafix1.png"},
+            {"image":"dafix2.png"},
+            {"image":"dafix3.png"},
+            {"image":"dafix4.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {   
+        "id":"15",
+        "name":"Piabetá",
+        "image":"Piabetá.png",
+        "year": "2022",
+        "text": "Uma das mais novas loja do Grupo Dafel vem atendendo o mercado de Construção Civil, levando peças em alumínio, aço e ferro. E materiais de construção, como máquinas; equipamentos de proteção individual e sinalização; cercamento e uma linha completa de fixação.  Realize suas compras (símbolo de compra com link da loja Dafel) 🛍 agora sem sair de casa ou vá até uma de nossas lojas e receba atendimento especializado. ",
+        "address":"AV. Automóvel Clube, S/N, Lote 38, Quadra 61 Jardim Nazareno - Piabetá, Magé - RJ, 25935-510",
+        "phone":"+55 (21) 3952-6530",
+        "banner":"cover.png",
+        "openingHours":"SEG–SEX: 07:30–17:30 / SAB:08-12:00",
+        "gallery": [
+            {"image":"piabeta1.png"},
+            {"image":"piabeta2.png"},
+            {"image":"piabeta3.png"},
+            {"image":"piabeta4.png"}
+        ],
+        "video":[{
+            "id":"5UM6q8qOeuM",
+            "title":"ESSE CONTEÚDO É EXCLUSIVO!",
+            "text":"Inscreva-se em nosso Canal no YouTube e conheça todas as nossas unidades em primeira mão. Não perca! Vamos te contar como a Dafel chegou até aqui. " 
+        }],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    }
+]

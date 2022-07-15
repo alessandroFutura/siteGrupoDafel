@@ -1,0 +1,1589 @@
+[
+    {
+        "id":"1",
+        "title":"Construção Civil",
+        "description":"Aqui você encontra um amplo mix na área de Construção Civil, desde a linha básica de vergalhões em vara, até a linha de corte e dobra já pronto para sua obra. Nossa linha possui, muito mais que vergalhões, temos a linha de aço pronto. Estribos, Radier, Colunas, Murfor e ainda Telas soldadas para pisos e lajes. Os acessórios também são itens presentes, como arame recozido e trançado, além de uma variedade grande de pregos.",
+        "image":"cover.jpg",
+        "cover":"portfolio-1.jpg",
+        "category":"construcao",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Radier",
+                "image":"Radier.png"
+            },
+            {
+                "name": "Arame",
+                "image":"Arame.png"
+            },
+            {
+                "name": "Coluna",
+                "image":"Coluna.png"
+            },
+            {
+                "name": "Estribo",
+                "image":"Estribo.png"
+            },
+            {
+                "name": "Malha",
+                "image":"Malha.png"
+            },
+            {
+                "name": "Prego",
+                "image":"Prego.png"
+            },
+            {
+                "name": "Treliça",
+                "image":"Trelica.png"
+            },
+            {
+                "name": "Vergalhão",
+                "image":"Vergalhao.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"2",
+        "title":"Serralheria",
+        "description":"A Serralheria é uma arte antiga, porém está continuamente presente em nosso dia a dia, nos surpreendendo com novas utilidades em ambientes estruturais, e também decorativos. Nosso mix de serralheria, perfis chapas de ferro tradicional e galvanizado, tubos industriais, tubos galvanizados, perfis U, vigas, ferro fundido, patamares, bobinas a metro e muito mais.",
+        "image":"cover.jpg",
+        "cover":"portfolio-2.jpg",
+        "category":"serralheria",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Barra Chata",
+                "image":"BarraChata.png"
+            },
+            {
+                "name": "Bobina",
+                "image":"Bobina.png"
+            },
+            {
+                "name": "Cantoneira",
+                "image":"Cantoneira.png"
+            },
+            {
+                "name": "Chapa Preta",
+                "image":"ChapaPreta.png"
+            },
+            {
+                "name": "Chapa U",
+                "image":"ChapaU.png"
+            },
+            {
+                "name": "Chapas",
+                "image":"chapas.png"
+            },
+            {
+                "name": "Ferro Fundido",
+                "image":"FerroFundido.png"
+            },
+            {
+                "name": "Metalon",
+                "image":"Metalon.png"
+            },
+            {
+                "name": "Tubos",
+                "image":"Tubos.png"
+            },
+            {
+                "name": "Viga",
+                "image":"Viga.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"3",
+        "title":"Marcenaria",
+        "description":"Aqui você encontra produtos que vão agilizar seu serviço em marcenaria  como: adesivos, aramados, corrediça, dobradiça, fechaduras, ferragens, fita de borda, puxadores, solventes, vernizes e muito mais.",
+        "image":"cover.jpg",
+        "cover":"portfolio-3.jpg",
+        "category":"marcenaria",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Adesivos",
+                "image":"Adesivos.png"
+            },
+            {
+                "name": "Aramados",
+                "image":"aramados.png"
+            },
+            {
+                "name": "Corrediça",
+                "image":"Corredica.png"
+            },
+            {
+                "name": "Dobradiças",
+                "image":"dobradicas.png"
+            },
+            {
+                "name": "Fechaduras",
+                "image":"Fechaduras.png"
+            },
+            {
+                "name": "Ferragens",
+                "image":"Ferragens.png"
+            },
+            {
+                "name": "Fitas de Borda",
+                "image":"Fitas_Borda.png"
+            },
+            {
+                "name": "Puxadores",
+                "image":"Puxadores.png"
+            },
+            {
+                "name": "Solventes",
+                "image":"Solventes.png"
+            },
+            {
+                "name": "Vernizes",
+                "image":"Vernizaes.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"4",
+        "title":"Drywall",
+        "description":"Quem opta por saber o que é drywall e utiliza esse material na reforma ou construção não se arrepende. As vantagens em escolher drywall como solução e beleza para seu acabamento são várias, as principais são: alta produtividade e fácil manutenção. Então, ganhe tempo e confira nossa linha completa de Drywall - Gesso Acartonado - com todos os produtos para instalação de Paredes, Forros e Revestimentos.",
+        "image":"cover.jpg",
+        "cover":"portfolio-4.jpg",
+        "category":"drywall",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Acessórios e Ferramentas",
+                "image":"Acessorios_Ferramentas.png"
+            },
+            {
+                "name": "Chapas Cimentícias",
+                "image":"Chapas_Cimenticias.png"
+            },
+            {
+                "name": "Chapa",
+                "image":"Chuapa.png"
+            },
+            {
+                "name": "Gesso",
+                "image":"Gesso.png"
+            },
+            {
+                "name": "perfil",
+                "image":"perfil.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"5",
+        "title":"Ferragens",
+        "description":"As ferragens para construção civil são indispensáveis na etapa de fundação da obra para a distribuição do peso ou esforços de determinada estrutura. Aqui você encontra um amplo mix na área de ferragem, desde a linha básica de vergalhões em vara, até a linha de corte e dobra já pronto para sua obra. Estribos, Radier, Colunas, Murfor e ainda Telas soldadas para pisos e lajes. ",
+        "image":"cover.jpg",
+        "cover":"portfolio-5.jpg",
+        "category":"ferragens",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Cadeado",
+                "image":"Cadeado.png"
+            },
+            {
+                "name": "Corrente",
+                "image":"Corrente.png"
+            },
+            {
+                "name": "Fechaduras",
+                "image":"fechaduras.png"
+            },
+            {
+                "name": "Rolamento",
+                "image":"rolamento.png"
+            },
+            {
+                "name": "Suportes",
+                "image":"Suportes.png"
+            },
+            {
+                "name": "Trinco",
+                "image":"trinco.png"
+            },
+            {
+                "name": "Maçaneta",
+                "image":"Macaneta.png"
+            },
+            {
+                "name": "Dobradiça",
+                "image":"dobradica.png"
+            },
+            {
+                "name": "Cabo de Aço",
+                "image":"cabo_aco.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"6",
+        "title":"Cercamento",
+        "description":"As telas de proteção são itens indispensáveis nas obras e construções. É imprescindível que os canteiros de edificações prezem pela segurança do local. Além de equipamentos pessoais de uso obrigatório, as telas são elementos que precisam se fazer presentes nesses locais. E pensando nisso,  trouxemos um mix de cercamento, confira excelentes opções para atender suas necessidades.",
+        "image":"cover.jpg",
+        "cover":"portfolio-6.jpg",
+        "category":"cercamento",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Arame Liso",
+                "image":"Liso.jpg"
+            },
+            {
+                "name": "Concertina",
+                "image":"Concertina.jpg"
+            },
+            {
+                "name": "Farpado",
+                "image":"Farpado.jpg"
+            },
+            {
+                "name": "Grampo",
+                "image":"Grampo.jpg"
+            },
+            {
+                "name": "T Alambrado",
+                "image":"Alambrado.jpg"
+            },
+            {
+                "name": "T Caracol",
+                "image":"Caracol.jpg"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"7",
+        "title":"Parafuseira",
+        "description":"Para bons resultados é preciso ter ferramentas fortes, modernas e o ideal é que atenda diversos trabalhos que exijam alta performance ao apertar e desapertar parafusos, furar madeira, metal e plástico. Nosso mix de parafusadeira abrange DeWalt e Black&Decker, além disso temos diversas marcas desde parafusadeiras até compressores de alta pressão.",
+        "image":"cover.jpg",
+        "cover":"portfolio-7.jpg",
+        "category":"parafuseira",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name":"Abraçadeira Mangote",
+                "image":"Abracadeira_Mangote.png"
+            },
+            {
+                "name":"Abraçadeiras",
+                "image":"Abracadeiras.png"
+            },
+            {
+                "name":"Arruelas",
+                "image":"Arruelas.png"
+            },
+            {
+                "name":"Barras Roscada",
+                "image":"Barras_Roscada.png"
+            },
+            {
+                "name":"Buchas de Gesso",
+                "image":"Buchas_Gesso.png"
+            },
+            {
+                "name":"Buchas Especiais",
+                "image":"Buchas_Especiais.png"
+            },
+            {
+                "name":"Buchas",
+                "image":"Buchas.png"
+            },
+            {
+                "name":"Chumbadores",
+                "image":"Chumbadores.png"
+            },
+            {
+                "name":"Clips Cabo de Aço",
+                "image":"Clips_Cabo_Aco.png"
+            },
+            {
+                "name":"Escapula",
+                "image":"Escapula.png"
+            },
+            {
+                "name":"Esticadores",
+                "image":"Esticadores.png"
+            },
+            {
+                "name":"Ganchos de Carga",
+                "image":"Ganchos_Carga.png"
+            },
+            {
+                "name":"Ganchos",
+                "image":"Ganchos.png"
+            },
+            {
+                "name":"Parafuso Drywall",
+                "image":"Parafuso_Drywall.png"
+            },
+            {
+                "name":"Parafuso Francês",
+                "image":"Parafuso_Frances.png"
+            },
+            {
+                "name":"Parafuso Sextavado",
+                "image":"Parafuso_Sextavado.png"
+            },
+            {
+                "name":"Parafusos de Telha",
+                "image":"Parafusos_Telha.png"
+            },
+            {
+                "name":"Parafusos Fixer",
+                "image":"Parafusos_Fixer.png"
+            },
+            {
+                "name":"Parafusos rosca Máquina",
+                "image":"Parafusos_rosca_Maquina.png"
+            },
+            {
+                "name":"Parafusos rosca soberba",
+                "image":"Parafusos_rosca_soberba.png"
+            },
+            {
+                "name":"Porca Rebite",
+                "image":"Porca_Rebite.png"
+            },
+            {
+                "name":"Porcas",
+                "image":"Porcas.png"
+            },
+            {
+                "name":"Pregos de Aço",
+                "image":"Pregos_Aco.png"
+            },
+            {
+                "name":"Rebites POP",
+                "image":"Rebites_POP.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"8",
+        "title":"Equipamentos de segurança",
+        "description":"Todo trabalhador deve ter a mesma prioridade, a sua segurança. Pensando nisso, nós da Dafel temos aumentado a cada dia o mix de equipamentos de segurança individual. Em nossas lojas você encontra capacetes, luvas, botas e calçados de segurança, cintos, óculos, máscaras e muito mais. Além de cones e faixas de sinalização, telas de proteção, máscaras de solda e etc.",
+        "image":"cover.jpg",
+        "cover":"portfolio-8.jpg",
+        "category":"EPI",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Abafador",
+                "image":"Abafador.png"
+            },
+            {
+                "name": "Bota PVC",
+                "image":"Bota_PVC.png"
+            },
+            {
+                "name": "Capa de Chuva",
+                "image":"Capa_Chuva.png"
+            },
+            {
+                "name": "Capacete",
+                "image":"Capacete.png"
+            },
+            {
+                "name": "Cinto de Segurança",
+                "image":"Cinto_Segurança.png"
+            },
+            {
+                "name": "Luva",
+                "image":"Luva.png"
+            },
+            {
+                "name": "Mascara",
+                "image":"Mascara.png"
+            },
+            {
+                "name": "Oculos",
+                "image":"Oculos.png"
+            },
+            {
+                "name": "Protetor Auditivo",
+                "image":"Protetor_Auditivo.png"
+            },
+            {
+                "name": "Uniforme",
+                "image":"Uniforme.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"9",
+        "title":"Coberturas",
+        "description":"A principal função das coberturas é a proteção das edificações contra a ação das intempéries, atendendo às funções utilitárias, estéticas e econômicas. E aqui você encontra um mix de produtos de coberturas que possuem características que garantem aplicações rápidas e seguras com excelente resistência, como a telha trapeziodal e telha termoacústica, ou sanduíche. Ganhe tempo e venha conferir nossos produtos.",
+        "image":"cover.jpg",
+        "cover":"portfolio-9.jpg",
+        "category":"coberturas",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Cumeeira",
+                "image":"Cumeeira.jpg"
+            },
+            {
+                "name": "Policarbonato.jpg",
+                "image":"Policarbonato.jpg"
+            },
+            {
+                "name": "Multiclick Policarbonato",
+                "image":"Multiclick_Policarbonato.jpg"
+            },
+            {
+                "name": "Prego Telheiro ",
+                "image":"Prego_Telheiro.jpg"
+            },
+            {
+                "name": "Telha Galvanizada",
+                "image":"Telha_Galvanizada.jpg"
+            },
+            {
+                "name": "Telha Térmica (isopor)",
+                "image":"Telha_Termica.jpg"
+            },
+            {
+                "name": "Telha PVC ",
+                "image":"Telha_PVC.jpg"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"10",
+        "title":"Máquinas",
+        "description":"Para um bom profissional utilizar boas máquinas é indispensável para gerar bons resultados. Pensando nisso, trouxemos para o mercado variedade e qualidade. Confira nosso mix de máquinas: furadeiras de mão e de bancada, parafusadeiras, marteletes, lixadeiras, bombas, serras de bancada e policorte, esmerilhadeiras, máquinas de solda e muito mais!",
+        "image":"cover.png",
+        "cover":"portfolio-10.jpg",
+        "category":"maquinas",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Betoneiras",
+                "image":"Betoneiras.png"
+            },
+            {
+                "name": "Compressores",
+                "image":"Compressores.png"
+            },
+            {
+                "name": "Lavadoras",
+                "image":"Lavadoras.png"
+            },
+            {
+                "name": "Roçadeiras",
+                "image":"Rocadeiras.png"
+            },
+            {
+                "name": "Ferramentas Elétricas",
+                "image":"Ferramentas_Eletricas.png"
+            },
+            {
+                "name": "Talhas e Guinchos",
+                "image":"Talhas_Guinchos.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"11",
+        "title":"Alumínio e vidro",
+        "description":"O Alumínio é um dos materiais em grande crescimento em diversas aplicações não só pela beleza, mas principalmente pela durabilidade. Por isso, investimos a cada dia em produtos seguindo as mais modernas tendências de mercado. Trabalhamos com linhas tradicionais como a linha 25 e 28, além da linha suprema, e perfis leves ou pesados. ",
+        "image":"cover.jpg",
+        "cover":"portfolio-11.jpg",
+        "category":"aluminio_vidro",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Adesivos",
+                "image":"Adesivos.png"
+            },
+            {
+                "name": "Alumínio",
+                "image":"Aluminio.png"
+            },
+            {
+                "name": "Bobina Alumínio.png",
+                "image":"Bobina_Aluminio.png"
+            },
+            {
+                "name": "Chapa Alumínio",
+                "image":"Chapa_Aluminio.png"
+            },
+            {
+                "name": "Chapa de ACM",
+                "image":"Chapa_ACM.png"
+            },
+            {
+                "name": "Espelho.png",
+                "image":"Espelho.png"
+            },
+            {
+                "name": "Ferragens para Vidro Temperado",
+                "image":"Ferragens_para_Vidro_Temperado.png"
+            },
+            {
+                "name": "Guarnição",
+                "image":"Guarnicao.png"
+            },
+            {
+                "name": "Kit Box",
+                "image":"Kit_Box.png"
+            },
+            {
+                "name": "Perfil Alumínio",
+                "image":"Perfil_Aluminio.png"
+            },
+            {
+                "name": "Roldanas",
+                "image":"Roldanas.png"
+            },
+            {
+                "name": "Selantes",
+                "image":"Selantes.png"
+            },
+            {
+                "name": "Vidro Temperado",
+                "image":"Vidro_Temperado.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"12",
+        "title":"Ferramentas",
+        "description":" A utilização de equipamentos e ferramentas adequados são essenciais para a execução das atividades dentro de uma obra, garantindo tanto melhor qualidade do serviço como também maior produtividade. Então, ganhe tempo e confira nosso amplo mix de ferramentas: como alicate, betoneira, carrinho de mão, colher de pedreiro, martelete e muito mais! ",
+        "image":"cover.jpg",
+        "cover":"portfolio-12.jpg",
+        "category":"ferramentas",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Brocas",
+                "image":"Brocas.png"
+            },
+            {
+                "name": "Chaves",
+                "image":"Chaves.png"
+            },
+            {
+                "name": "Estiletes",
+                "image":"Estiletes.png"
+            },
+            {
+                "name": "Marretas",
+                "image":"Marretas.png"
+            },
+            {
+                "name": "Martelo",
+                "image":"Martelo.png"
+            },
+            {
+                "name": "Trenas",
+                "image":"Trenas.png"
+            },
+            {
+                "name": "Carrinho de Mão",
+                "image":"Carrinho_Mao.png"
+            },
+            {
+                "name": "Chaves Combinadas",
+                "image":"Chaves_Combinadas.png"
+            },
+            {
+                "name": "Desempenadeiras Plásticas",
+                "image":"Desempenadeiras_plast.png"
+            },
+            {
+                "name": "Ferramentas para Obra",
+                "image":"Ferramentas_para_Obra.png"
+            },
+            {
+                "name": "Ponteiros e Talhadeiras",
+                "image":"Ponteiros_Talhadeiras.png"
+            },
+            {
+                "name": "Desempenadeiras",
+                "image":"Desempenadeiras.png"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"13",
+        "title":"Abrasivos",
+        "description":"Não importa qual o segmento de atuação: os abrasivos estão presentes em praticamente todas as indústrias. Eles fazem parte do processo de fabricação dos mais variados produtos e têm um papel fundamental na estrutura, mas principalmente no acabamento. Pensando nisso, nós da Dafel oferecemos um mix de abrasivos para solucionar diversas necessidades e nossos atendentes especializados irão te ajudar a escolher os equipamentos ideais para agilizar seu serviço.",
+        "image":"cover.jpg",
+        "cover":"portfolio-13.jpg",
+        "category":"abrasivos",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Discos_de_Corte",
+                "image":"Discos_Corte.jpg"
+            },
+            {
+                "name": "Discos de Lixa",
+                "image":"Discos_Lixa.jpg"
+            },
+            {
+                "name": "Discos Flap",
+                "image":"Discos_Flap.jpg"
+            },
+            {
+                "name": "Folhas de Lixa",
+                "image":"Folhas_Lixa.jpg"
+            },
+            {
+                "name": "Lixa Cinta",
+                "image":"Lixa_Cinta.jpg"
+            },
+            {
+                "name": "Rebolo",
+                "image":"Rebolo.jpg"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"14",
+        "title":"Soldas",
+        "description":"Muito utilizado na indústria em geral, atendem a fabricação e recuperação de peças, equipamentos e estruturas metálicas. Sua aplicação vai de pequenos componentes eletrônicos até grandes estruturas e equipamentos. Vendo que é essencial no mercado a Dafel vem oferecer um mix de produtos como: eletrodo, garra, máquinas de solda, martelo, máscara de solda, MIG e porta eletrodo.",
+        "image":"cover.jpg",
+        "cover":"portfolio-14.jpg",
+        "category":"solda",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Eletrodo",
+                "image":"Eletrodo.jpg"
+            },
+            {
+                "name": "Garra",
+                "image":"Garra.jpg"
+            },
+            {
+                "name": "Maquina",
+                "image":"Maquina.jpg"
+            },
+            {
+                "name": "Martelo",
+                "image":"Martelo.jpg"
+            },
+            {
+                "name": "Máscara",
+                "image":"Mascara.jpg"
+            },
+            {
+                "name": "MIG",
+                "image":"MIG.jpg"
+            },
+            {
+                "name": "Porta Eletrodo",
+                "image":"Porta_Eletrodo.jpg"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    },
+    {
+        "id":"15",
+        "title":"Fabricação própria",
+        "description":"Temos toda uma preocupação em atender nossos clientes com produtos de qualidade e em condições coerentes com o mercado, por isso alguns itens nós buscamos a fórmula para gerar um resultado de custo benefício ainda melhor. Produzimos produtos de qualidade, para atender nossos estoques, mas também geramos alguns sob encomenda. Nossos produtos são produzidos em nossa unidade fabril. A Rio Preto produz telas losango, galvanizadas e plastificadas, telhas galvanizadas e galvanizadas termoacústicas. Essas com coloração natural ou com pintura eletrostática branca. Além disso, nossa unidade também gera estribos, radiers e arames, sendo esses galvanizados ou recozidos.",
+        "image":"cover.jpg",
+        "cover":"portfolio-15.jpg",
+        "category":"fabricacao",
+        "banner":"cover.png",
+        "products":[
+            {
+                "name": "Coluna.jpg",
+                "image":"Coluna.jpg"
+            },
+            {
+                "name": "Estribo.jpg",
+                "image":"Estribo.jpg"
+            },
+            {
+                "name": "Telha.jpg",
+                "image":"Telha.jpg"
+            },
+            {
+                "name": "Tela Alambrado",
+                "image":"Tela_Alambrado.jpg"
+            },
+            {
+                "name": "Telha Termica",
+                "image":"Telha_Termica.jpg"
+            }
+        ],
+        "groups":[
+            {
+                "icon": "Abrasivos.png",
+                "label":"Abrasivos"
+            },
+            {
+                "icon": "Aluminio_vidro.png",
+                "label":"Aluminio e Vidro"
+            },
+            {
+                "icon": "Aco.png",
+                "label":"Aço"
+            },
+            {
+                "icon": "Cercamento.png",
+                "label":"Cercamento"
+            },
+            {
+                "icon": "Drywall.png",
+                "label":"Drywall"
+            },
+            {
+                "icon": "Epi.png",
+                "label":"Epi"
+            },
+            {
+                "icon": "Fabricacao.png",
+                "label":"Fabricação"
+            },
+            {
+                "icon": "Ferragem.png",
+                "label":"Ferragem"
+            },
+            {
+                "icon": "Ferramentas.png",
+                "label":"Ferramentas"
+            },
+            {
+                "icon": "Fixacao.png",
+                "label":"Fixacao"
+            },
+            {
+                "icon": "Marcenaria.png",
+                "label":"Marcenaria"
+            },
+            {
+                "icon": "Parafusadeira.png",
+                "label":"Parafusadeira"
+            },
+            {
+                "icon": "Serralheria.png",
+                "label":"Serralheria"
+            },
+            {
+                "icon": "Solda.png",
+                "label":"Solda"
+            }
+        ]
+    }
+]

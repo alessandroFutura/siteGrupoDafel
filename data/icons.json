@@ -1,0 +1,72 @@
+[
+    {
+        "icon": "Abrasivos.png",
+        "label":"Abrasivos",
+        "category":"13"
+    },
+    {
+        "icon": "Aluminio_vidro.png",
+        "label":"Aluminio e Vidro",
+        "category":"11"
+    },
+    {
+        "icon": "Aco.png",
+        "label":"Aço",
+        "category":"5"
+    },
+    {
+        "icon": "Cercamento.png",
+        "label":"Cercamento",
+        "category":"6"
+    },
+    {
+        "icon": "Drywall.png",
+        "label":"Drywall",
+        "category":"4"
+    },
+    {
+        "icon": "Epi.png",
+        "label":"Epi",
+        "category":"8"
+    },
+    {
+        "icon": "Fabricacao.png",
+        "label":"Fabricação",
+        "category":"15"
+    },
+    {
+        "icon": "Ferragem.png",
+        "label":"Ferragem",
+        "category":"5"
+    },
+    {
+        "icon": "Ferramentas.png",
+        "label":"Ferramentas",
+        "category":"12"
+    },
+    {
+        "icon": "Fixacao.png",
+        "label":"Fixacao",
+        "category":"7"
+    },
+    {
+        "icon": "Marcenaria.png",
+        "label":"Marcenaria",
+        "category":"3"
+    },
+    {
+        "icon": "Parafusadeira.png",
+        "label":"Parafusadeira",
+        "category":"7"
+    },
+    {
+        "icon": "Serralheria.png",
+        "label":"Serralheria",
+        "category":"2"
+    },
+    {
+        "icon": "Solda.png",
+        "label":"Solda",
+        "category":"14"
+    }
+]

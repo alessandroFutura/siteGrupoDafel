@@ -1,0 +1,86 @@
+[
+    {
+        "id":"1",
+        "name":"Matriz",
+        "image":"Matriz.jpeg",
+        "pege":"matriz"
+    },
+    {
+        "id":"2",
+        "name":"Cabo Frio",
+        "image":"CF.jpeg",
+        "pege":"cabo_frio"
+    },
+    {
+        "id":"3",
+        "name":"Macaé",
+        "image":"Macae.png",
+        "pege":"macae"
+    },
+    {
+        "id":"4",
+        "name":"Industria",
+        "image":"IndustriaSJ.png",
+        "pege":"industria"
+    },
+    {
+        "id":"5",
+        "name":"Conceição de Macabu",
+        "image":"IndustriaMacabu.png",
+        "pege":"macabu"
+    },
+    {
+        "id":"6",
+        "name":"Bom Retiro",
+        "image":"Tenente.png",
+        "pege":"bom_retiro"
+    },
+    {
+        "id":"7",
+        "name":"São José",
+        "image":"SJ.jpeg",
+        "pege":"sao_jose"
+    },
+    {
+        "id":"10",
+        "name":"Guapimirim",
+        "image":"Guapi.png",
+        "pege":"guapi"
+    },
+    {
+        "id":"11",
+        "name":"Saracuruna",
+        "image":"Caxias.png",
+        "pege":"caxias"
+    },
+    {
+        "id":"8",
+        "name":"Unamar",
+        "image":"Unamar.png",
+        "pege":"unamar"
+    },
+    {
+        "id":"9",
+        "name":"Nova Friburgo",
+        "image":"Friburgo.png",
+        "pege":"friburgo"
+    },
+    {
+        "id":"13",
+        "name":"Ecin",
+        "image":"ECIN.png",
+        "pege":"ecin"
+    },
+    {
+        "id":"14",
+        "name":"Dafix Macaé",
+        "image":"dafix.png",
+        "pege":"dafix"
+    },
+    {
+        "id":"15",
+        "name":"Piabetá",
+        "image":"Piabetá.png",
+        "pege":"dafix"
+    }
+]
